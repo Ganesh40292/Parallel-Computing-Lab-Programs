@@ -17,6 +17,7 @@ int is_prime(int num)
             return 0;
     }
     return 1;
+    //nice loop
 }
 int main()
 {
